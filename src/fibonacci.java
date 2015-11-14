@@ -10,6 +10,7 @@ public class fibonacci {
 	
 	public static void main(String args[]) throws InterruptedException{
 		
+		//adding comments because need to make changes
 		Scanner keyboard = new Scanner(System.in);
 		System.out.print("Enter number upto which Fibonacci series to print: ");
 		int number = keyboard.nextInt() + 1;
